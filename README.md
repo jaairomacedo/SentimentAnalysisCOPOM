@@ -1,4 +1,4 @@
-# Sentimental Analysis for Minutes of the Monetary Policy Committee
+# Sentiment Analysis for Minutes of the Monetary Policy Committee
 <p align="center">
   <img src="https://www.bcb.gov.br/assets/svg/logo-bcb.svg" alt="Copom" width="300"/>
 </p>
